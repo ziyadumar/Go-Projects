@@ -1,8 +1,8 @@
 ## Go projects 
 
-CSP based language ;) that gives you privilege of concurrency/parallel processing.
+CSP based language ;) that gives you the privilege of concurrency/parallel processing.
 
-"Although concurrency and parallelism are two different things", people tend to use it interchangeably.
+**Although concurrency and parallelism are two different things**, people tend to use it interchangeably.
 
 Here are some projects to help you out and save some time.
 
