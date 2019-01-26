@@ -6,8 +6,7 @@ CSP based language ;) that gives you the privilege of concurrency/parallel proce
 
 Here are some projects to help you out and save some time.
 
-Gathered from places bit by bit and put into one place 
-Reuse and feel free to contribute :)
+Gathered from places bit by bit and put into one place. Reuse and feel free to contribute :)
 
 _littlest wulf_,
 
